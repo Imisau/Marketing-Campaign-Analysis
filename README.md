@@ -32,7 +32,7 @@ This limits the ability to fully exploit demand patterns, improve inventory mana
 
 ### SLIDE 2
 
-![]()
+![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/Screenshot%20(21).png?raw=true)
 
 ### SLIDE 3
 
