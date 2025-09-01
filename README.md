@@ -1,5 +1,5 @@
 # Marketing Campaign Analysis
-![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/pp_image.png?raw=true) | ![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/218e56d8226653dbb2458a2ead7a77b64208e7bc/Screenshot%20(32).png)
+![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/pp_image.png?raw=true)
 #### A Focus On Customer Behavior And Product Performance
 
 ## Introduction
@@ -44,6 +44,8 @@ This limits the ability to fully exploit demand patterns, improve inventory mana
 ### SLIDE 5
 ![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/PP5.jpg?raw=true)
 
+### SUMMARY DASHBOARD
+![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/218e56d8226653dbb2458a2ead7a77b64208e7bc/Screenshot%20(32).png)
 
 ### Recommendations
 1. Target Older Segments
