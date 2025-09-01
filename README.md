@@ -1,5 +1,5 @@
 # Marketing Campaign Analysis
-![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/pp_image.png?raw=true)
+![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/pp_image.png?raw=true) | ![](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/218e56d8226653dbb2458a2ead7a77b64208e7bc/Screenshot%20(32).png)
 #### A Focus On Customer Behavior And Product Performance
 
 ## Introduction
