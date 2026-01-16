@@ -58,6 +58,6 @@ This limits the ability to fully exploit demand patterns, improve inventory mana
 -	Schedule key campaigns on weekends and December/July (high-revenue periods in SLIDE 2 – both charts).
 -	Offer mid-week discounts to balance demand.
 
-### Interact_dataset [Here](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/Market%20Campaign%20Analysis%20data.xlsx)
+### Interact_with_dataset [Here](https://github.com/Imisau/Marketing-Campaign-Analysis/blob/main/Market%20Campaign%20Analysis%20data.xlsx)
 
 
